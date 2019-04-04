@@ -1,1 +1,2 @@
 cx init
+m 1
